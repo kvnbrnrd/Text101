@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A17. Following The Man
+  m_EditorClassIdentifier: 
+  storyText: "A17. Following The Man\r\nYou decide to walk, staying far behind him,
+    but close enough to see in which direction he's heading, for now he's not straying
+    from the path and seems to be heading back to the village. He stops on the side
+    of the road and crouches, it seems like he's examining something on the ground,
+    like a plant. He picks the thing up and puts it in one of his pockets. \r\n\r\nWhile
+    standing back up, he glances in your direction, he seems to be looking at you
+    for a second, you're smart enough to not weirdly stop, you keep on walking normally.
+    He seems to be looking at you for a second, and he starts walking again to the
+    village. He reaches the village, you're still at a good distance, you should
+    not lose his track once you're there.\r\n\r\n1. Continue... "
+  nextStates:
+  - {fileID: 11400000, guid: 340252484a4190149985a15ad8f3881d, type: 2}

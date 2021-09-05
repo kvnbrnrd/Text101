@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A21. Eavesdropper's Inn
+  m_EditorClassIdentifier: 
+  storyText: "You walk to the inn and enter directly. You check in with the keeper,
+    he asks to relieve you of your burden, it's also a good idea to not carry a sword
+    in a tavern. He tells you that you'll be staying in Room 4 tonight and that you
+    can sit wherever you want. A table is free directly in the right corner after
+    the entrance, exactly where you need to be, it's still early, you're lucky. \r\n\r\nYou
+    put an elbow on the table and rest your face in your right hand, it hides the
+    side of your face while allowing you to glance discreetly. You see a man arrive
+    through the window, long hair, dark purple cape, not too flashy still. He gets
+    out of view, you can barely hear two voices on your right, there's too much noise
+    around you, you couldn't be that lucky. You think you hear them mention a woman
+    but that's about it. You see the man you followed head into the village, the
+    man with the long hair and cape enters the inn, he does not look in your direction
+    and sits on the other side of the inn, alone.\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: f2d471ee80580af448cf1c2f1897ed03, type: 2}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A6. Hide And Wait
+  m_EditorClassIdentifier: 
+  storyText: 'The man is packing his things below near the pond, his back turned
+    on you, you quickly glance behind you, the path you took narrows and continues
+    around a rock formation, it''s a bit far so you''d have to run. It makes an angle,
+    being behind it you''ll be hidden from view, and the vegetation should hide you
+    while you''re going there.
+
+    
+
+    On the same path and in the same direction,
+    you can see a big fallen tree, the trunk lies down the side of the path, on forest
+    ground, with remaining leaves and branches slightly resting on the right side
+    of the path. You could quite quickly go around it and lie down on the floor behind,
+    it should be enough to hide you from view.
+
+    
+
+    Noise is also something
+    you need to be careful of. Where do you hide ?
+
+    
+
+    1. Hide behind the
+    rock formation.
+
+    2. Lie down behind the fallen tree.'
+  nextStates:
+  - {fileID: 11400000, guid: 7097559b922b1bf488309ae9bfa44a94, type: 2}
+  - {fileID: 11400000, guid: a4c35593053910e4a80eb3c766935016, type: 2}

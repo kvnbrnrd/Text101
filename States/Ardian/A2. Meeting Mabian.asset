@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A2. Meeting Mabian
+  m_EditorClassIdentifier: 
+  storyText: 'You walk up the road until you reach Mabian''s house, it''s still dawn
+    and the surroundings are silent, the old man must still be asleep at this hour.
+    You knock firmly on the door and call out for him, saying you need to speak urgently
+    with him. The window of the upper floor opens on the rather confused face of
+    Mabian, understanding the urgency, he says he''ll be right downstairs and that
+    you can go in and wait for him at the table.
+
+    
+
+    When after quite longer
+    than expected he comes down, looking at him closely you can see he seems to be
+    under the weather and tired, he asks what brought you here so early. You explain
+    what happened, he''s initially shocked, but his face becomes grave and pensive.
+    "I''m sorry but I didn''t see or hear a thing, I didn''t stargaze and went to
+    bed early, I''m rather tired". He wishes you good luck and you wish him a good
+    rest and head back on the main road.
+
+    
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 2ddd13c8a2872564c88879910655129b, type: 2}

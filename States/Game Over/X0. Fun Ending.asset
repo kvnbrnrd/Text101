@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: X0. Fun Ending
+  m_EditorClassIdentifier: 
+  storyText: 'The man with the long hair and dark cape stands up. He goes towards
+    the counter to order a pint, at least that''s what you think.
+
+    
+
+    He
+    turns around, he seems to be looking at someone, he put on a cloak and you can''t
+    see his face properly, but you can see his head move, analyzing everything. He
+    seems to stop while looking at you, he starts walking in your direction. He stops
+    right in front of you, you don''t know what''s going on, but you''re ready for
+    anything. The man does not move nor say anything. You start getting angry, you
+    ask him what he wants, and to show his face, to which he answers "O.K". You don''t
+    have the slightest idea of what it means.
+
+    
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 2609dc23fa927dc4ca51e30049c70dc5, type: 2}

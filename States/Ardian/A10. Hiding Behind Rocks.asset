@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A10. Hiding Behind Rocks
+  m_EditorClassIdentifier: 
+  storyText: 'You choose to hide under the rock formation, you see that the back
+    of the man is still turned on you so you carefully stand up and while keeping
+    an eye on him, you start walking back a bit. He''s still not looking, so you
+    turn your back on him and you swiftly run to the rock formation, while keeping
+    a hand on your sword.
+
+    
+
+    You reach it and hide behind it. When you
+    come out, the man is heading back to the path, so you quickly duck back, he doesn''t
+    seem to notice. You wait it out, hoping that the vegetation was indeed shielding
+    you from view. After a bit you don''t see the man anymore, you quickly walk the
+    path to take a right turn, and when you get a look, you see him a bit further
+    ahead indeed, his back turned on you, heading on the path back to the inn.
+
+    
+
+    1.
+    Continue... (+25)'
+  nextStates:
+  - {fileID: 11400000, guid: cbbd6f342b6de684ca1d546d946a8bd4, type: 2}

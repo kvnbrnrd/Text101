@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A11. Hiding Behind Tree
+  m_EditorClassIdentifier: 
+  storyText: "You choose to hide behind the fallen tree since it's closer, you carefully
+    start crouching back while keeping an eye on him. You see him turn around and
+    getting ready to walk back, you also turn around, you're not far from the tree.
+    You're still crouched and start going around the branches and leaves, you take
+    another peek behind your shoulder and you see him almost on the path.\r\n\r\nYou
+    decide to hurry it up a bit to finsih going around the tree and lying down, your
+    sword gets stuck in the branches, but you manage to quickly remove it and lie
+    down, holding your sword so it doesn't make any noise touching the ground. While
+    lying down, you don't risk taking a peek, but you can see the branches and leaves
+    are still moving a bit. You wait it out and hope you haven't been noticed. After
+    a little while, you crawl a bit and take a peek between the leaves, nobody's
+    there. You stand up and start walking up the path and when reaching the angle
+    of the turn you see him further ahead, walking back to the inn. \r\n\r\n1. Continue...
+    (-25)"
+  nextStates:
+  - {fileID: 11400000, guid: cbbd6f342b6de684ca1d546d946a8bd4, type: 2}

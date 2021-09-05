@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A7. About The King
+  m_EditorClassIdentifier: 
+  storyText: 'He still seems defensive, but also worried, he says he has not heard
+    anything about it nor seen anthing strange and asks what is known or rumored
+    so far about what happened and asks what is done so far to find what happened
+    to the King.
+
+    
+
+    1. I am Prince Ardian himself, I will make sure to
+    find my father and I will fight against any number of foes to get him back. (-50)
+
+    2.
+    I have been sent by the kingdom to find him, and I will spare no efforts finding
+    out what happened, you people can rest easy. (-25)
+
+    3. From what I''ve been
+    able to gather, the King was at the castle yesterday and was missing this morning,
+    he might have been taken, there are no tangible clues or motives that anybody
+    knows of. '
+  nextStates:
+  - {fileID: 11400000, guid: deb09e9ef851e3d4495c5668a74fc7fa, type: 2}
+  - {fileID: 11400000, guid: deb09e9ef851e3d4495c5668a74fc7fa, type: 2}
+  - {fileID: 11400000, guid: deb09e9ef851e3d4495c5668a74fc7fa, type: 2}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A3. The Forest Trail
+  m_EditorClassIdentifier: 
+  storyText: 'You choose to head down the forest trail, you can see it rained yesterday
+    and the morning dew is not making the path any less wet or muddy. You slow Shadowfax
+    down to get your bearings but the fog makes it hard to see anything. Everything
+    is silent and you don''t see any marks on the ground. You enter the forest and
+    the atmosphere becomes more eerie.
+
+    
+
+    You decide to continue on foot
+    because of the fog, Shadowfax close behind. After a couple hours, the road goes
+    upwards and makes a right, going back in direction of the city. On your left
+    you finally see something. Remains of a hasty campfire, recent, from yesterday
+    it seems. You see nothing else than a wooden cup with several drops of a strange
+    green liquid from which emanates a strong plant smell. You put it in your bag,
+    you can see the path better from there, so you ride Shadowfax again and get going,
+    the inn is still far, you''d better hurry to reach it before dusk.
+
+    
+
+    1.
+    Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 2ddd13c8a2872564c88879910655129b, type: 2}

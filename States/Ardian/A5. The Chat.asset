@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A5. The Chat
+  m_EditorClassIdentifier: 
+  storyText: 'You walk to the pond, get closer to the campfire, the man is packing
+    his things, you see him put his cup and other things in a bag, he finally hears
+    you behind him, turns back and is startled. You''re still wearing your sword
+    after all, and he seems to just be a normal traveler, an unarmed one at that.
+    You greet him with a smile, he greets you as well but still seems a bit defensive.
+    How do you continue this conversation ?
+
+    
+
+    1. Sorry for the sudden
+    question and news, the King is missing, we discovered it this morning. Had you
+    heard anything about it ? Have you seen or heard anything unusual around ?
+
+    2.
+    I couldn''t help but notice before coming over that you were drinking something,
+    I''ve never smelled anything like it, what is it ? (-25)
+
+    3. I left the
+    city at dawn and had to skip lunch to arrive here before dusk and the inn won''t
+    serve anything before a while. Would you have a bit of food to spare to a fellow
+    traveler hours from his next meal ? That would be very kind of you. (+25)'
+  nextStates:
+  - {fileID: 11400000, guid: e8b102b195dca9d4ebdc9d776a8b5b56, type: 2}
+  - {fileID: 11400000, guid: b278247b569c8434ebe592debe7acae8, type: 2}
+  - {fileID: 11400000, guid: 2b6c2162197fc004899d368618022d4a, type: 2}

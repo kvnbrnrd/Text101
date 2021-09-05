@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: X1. Game Over
+  m_EditorClassIdentifier: 
+  storyText: "The man reveals his face, his hear is tied in a man bun, and he's wearing
+    something on his head, something in front of both eyes, but you can perfectly
+    see his eyes behind this transparent layer, it's so weird ! When you ask what
+    it is he's wearing, he seems surprised and says \"glasses, never heard of those
+    ?\". You tell him you have no idea what he's talking about. He says \"Anyway
+    it's not important, my name is Usul, I came to talk to you about Karl Marx and
+    the proletariat, ever heard of class war ?\". You don't know what to answer,
+    you cannot understand a word this guy is saying. He busts out some sort of rectangular
+    black and flat thing, points it at you, you hear a weird clicking noise, he shows
+    the other side of that weird object back to you, and you can see yourself in
+    it, like a painting, but it's not a painting. He says \"I'VE CAPTURED YOUR IMAGE
+    AND FROZE IT IN TIME INSIDE THIS DEVICE, FEAR ME MORTAL\". \r\n\r\nYou close
+    your eyes and start screaming ! You open your eyes, you're in your bed all of
+    a sudden. The door opens and a panting servant, apologizes and said he entered
+    since he heard you screaming, he asks what's wrong. You immediately ask him where
+    the King is, the question astonishes him and he replies \"well his Majesty is
+    having breakfast downstairs, why is that ?\". You start laughing, and you tell
+    him you've just had a nightmare then and that he can be excused. The servant
+    leaves, and still you keep on pondering, who was this Usul person and what are
+    glasses, and what was this strange thing he captured your image with ?\r\n\r\n1.
+    Play again.\r\n2. Back to Rules.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 3a6214b7bb930ea40aa63c3714d4c528, type: 2}
+  - {fileID: 11400000, guid: 4897daa8e60e0094ea38da818e6a0628, type: 2}

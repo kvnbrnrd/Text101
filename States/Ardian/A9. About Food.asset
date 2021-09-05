@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A9. About Food
+  m_EditorClassIdentifier: 
+  storyText: 'You shared a bit about yourself and he seems to be less defensive.
+    He smiles faintly and tells you he has a bit of leftovers to share with you indeed,
+    he hands you a loaf of bread with a small piece of sausage and cheese. You thank
+    him and eat the whole thing so fast you can''t even remember what it looked like.
+    His smile seems to widen for a second, and he asks you why you were in such a
+    hurry to reach the inn before twilight.
+
+    
+
+    1. I have matters to attend
+    to early tomorrow, so I wanted to be there fast so I can knock off early. If
+    you''re also staying at the inn tonight, I can buy you a pint to thank you for
+    your kindness. (+25)
+
+    2. The King is missing. I''m his son, Prince Ardian,
+    I was with him until yesterday night so I know that''s when he disappeared,I''m
+    ready to fight any number of foes to go get him back. (-50)
+
+    3. I don''t
+    know if the rumors reached this city yet, but the King has mysteriously disappeared
+    during the night. I have been sent by the kingdom to find out what happened,
+    I came here looking for clues. (-25)'
+  nextStates:
+  - {fileID: 11400000, guid: 9b2e07a06e005cd4bb1a8088ad5d634f, type: 2}
+  - {fileID: 11400000, guid: deb09e9ef851e3d4495c5668a74fc7fa, type: 2}
+  - {fileID: 11400000, guid: deb09e9ef851e3d4495c5668a74fc7fa, type: 2}

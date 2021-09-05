@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: 0. Intro First Dilemma
+  m_EditorClassIdentifier: 
+  storyText: 'As Tharia was starting to head upstairs, Ardian pondered on what to
+    do next, riding immediately his loyal Shadowfax to search for any clues leading
+    to the their father''s trail, he could ask the servants to let Tharia know she
+    can send him a letter to the Nightstalker''s Inn a day''s ride from here, that''s
+    where he would be headed and would stay for the night if he finds no clues on
+    the way.
+
+    
+
+    Or he could go upstairs with her to check the King''s quarters
+    and assess the situation, maybe they could find a clue or some information which
+    would point them in a certain direction, but who knows how long that might take,
+    time is of the essence, since King Pharian was in his quarters at night, he may
+    not be far just yet.
+
+    
+
+    1. Go outside immediately to look for clues.
+
+    2.
+    Go upstairs and assess the situation with Tharia.'
+  nextStates:
+  - {fileID: 11400000, guid: a1dcc825e41ca0644a234e9fbd20c275, type: 2}
+  - {fileID: 0}

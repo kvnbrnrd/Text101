@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A8. About The Drink
+  m_EditorClassIdentifier: 
+  storyText: "He stares at you and his facial expression becomes more neutral and
+    pensive, it's hard to read what he's thinking. He says it's a simple infusion
+    with plants some people around here make, that it's a good thing to drink if
+    you're feeling under the weather.\r\n\r\n1. I had never heard from that beverage
+    before, how many people around here know how to prepare that and what it is in
+    it ?\r\n2. Oh I had never heard of it, that's interesting, I wouldn't say no
+    to a cup myself, I also don't feel too good, maybe that would do the trick. Do
+    you still have some or can tell me how to prepare it ? (+25)\r\n3. Who around
+    here knows that recipe ? It's the first time I'm seeing this. I also wanted to
+    ask you, have you heard that the King has been missing since this morning ? (-25)\r"
+  nextStates:
+  - {fileID: 11400000, guid: 1c90f773d2f710b4395fe45854568b2a, type: 2}
+  - {fileID: 11400000, guid: 1c90f773d2f710b4395fe45854568b2a, type: 2}
+  - {fileID: 11400000, guid: deb09e9ef851e3d4495c5668a74fc7fa, type: 2}

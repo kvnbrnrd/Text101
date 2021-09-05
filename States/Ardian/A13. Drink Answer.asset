@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A13. Drink Answer
+  m_EditorClassIdentifier: 
+  storyText: 'He says that it requires quite some plants and some time to prepare,
+    so it''s a bit complicated to explain, but that he does have some left for you
+    to taste it if you want, that''s it''s must still be hot and that it''s better
+    to drink it that way. He pours what he has left in a cup and hands it to you,
+    do you drink it ?
+
+    
+
+    1. You drink it. (+25)
+
+    2. You don''t drink
+    it. (-25)'
+  nextStates:
+  - {fileID: 11400000, guid: d5b1dc640f1e23c4ca36b8775f272603, type: 2}
+  - {fileID: 11400000, guid: 13b1e9fa198f050408455dfaddfcd022, type: 2}

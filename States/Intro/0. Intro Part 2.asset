@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: 0. Intro Part 2
+  m_EditorClassIdentifier: 
+  storyText: 'His first reaction was to find his sister Princess Tharia, 4 years
+    his
+
+    junior, to assign her with the task of finding any clues in the castle,starting
+    with the King''s quarters and interrogating the servants on the
+
+    events
+    that occurred the previous night after the feast. It was the weekly Saturday
+    feast, a great one, even though the King and older folks felt very tired and
+    knocked off early, growing wiser does have its share of changes.
+
+    
+
+    Tharia
+    was a more discreet and brilliant mind rather than a fighter, regarded as a quite
+    peculiar character, a lone wolf by nature, who even appeared less interested
+    in religion, which was very unusual and not to the townsfolk''s liking. Although
+    there was no doubting her allegiance to Caleenia, she shared a strong and loving
+    bond with her brother and father, and her sharp thinking was indeed the best
+    fit to carry out this task.
+
+    
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 591cde17426d0074fba22ad2855eb27c, type: 2}

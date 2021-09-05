@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A19. By The Church
+  m_EditorClassIdentifier: 
+  storyText: 'The man is looking away from the church, so you decide to go there,
+    from where you are you won''t hear anything, but the light has not fully faded
+    just yet, you''re still able to distinguish faces a bit. Recognizing and keeping
+    an eye on a second person which might be linked to all this would be useful,
+    maybe you''ll be able to follow that second person too to gain more insight.
+
+    
+
+    The
+    gate leading to the church is open, you pass it and sit on the stairs, pretending
+    to think and look around. Another person arrives near the man and starts talking
+    to him, they seem to be making sure they''re not heard or seen. You can see the
+    new person is a man with quite long black hair and some sort of cape, a dark
+    color. Their meeting ends, the man you followed here goes in the village, the
+    one he met enters the inn, they don''t seem to have noticed you spying on them.
+    You get up and enter as well. The innkeeper takes your things and lets you know
+    you''ll sleep in Room 4.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: f2d471ee80580af448cf1c2f1897ed03, type: 2}

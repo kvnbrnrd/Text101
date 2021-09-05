@@ -18,6 +18,9 @@ public class AdventureGame : MonoBehaviour
     {
         state = startingState;
         textComponent.text = state.GetStateStory();
+        int h = 25;
+        int mod = 50;
+        Debug.Log(h - mod);
     }
 
     // Update is called once per frame
@@ -36,6 +39,10 @@ public class AdventureGame : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Alpha2))
         {
             state = nextStates[1];
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            state = nextStates[2];
         }
         textComponent.text = state.GetStateStory();
     }

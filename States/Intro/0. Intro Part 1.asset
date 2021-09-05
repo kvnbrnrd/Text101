@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: 0. Intro Part 1
+  m_EditorClassIdentifier: 
+  storyText: 'The first rays of dawn filtered through the mist shrouding the Kingdom
+    of Caleenia, and with them spread the rumor of a terrible truth, King Pharian
+    has mysteriously vanished, leaving his devout subjects and the royal family fearing
+    from the worst and ready to spare no efforts finding their benevolent ruler and
+    avenge him if necessary.
+
+
+
+    The responsibility of handling the investigation
+    laid on the shoulders of his only son, next in line for the Crown, Prince Ardian,
+    26 years of age, who like the vast majority of his kind was a religious person,
+    very attached to the traditions and lore of Caleenia, highly esteemed and admired
+    by everyone for his bravery, swordsmanship and sociability.
+
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: f4b7ad95aaadbc340ac08d029e3a8bb8, type: 2}

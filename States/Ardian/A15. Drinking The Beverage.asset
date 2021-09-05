@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3d25c6b1c4f374db643b03c4e23d44, type: 3}
+  m_Name: A15. Drinking The Beverage
+  m_EditorClassIdentifier: 
+  storyText: 'You drink the beverage, the taste is really strong, it does taste like
+    it smells; nothing seems weird about it while you drink, the taste is refreshing
+    and you feel more awake, warm, and your thoughts seem to clear. You thank the
+    man, he smiles and wishes you a good day before going on his way.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: f2d471ee80580af448cf1c2f1897ed03, type: 2}
